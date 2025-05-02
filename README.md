@@ -1,6 +1,6 @@
 ## Hi Everyone! 👋
 
-My name is Dedy Puji Jayanto. You can call me `DP`, stands for Dedy Puji. I am software developer since late 2017. I am from Indonesia. I have family with one beautiful wife, and one great son and i am a Dad hehe!.
+My name is Dedy Puji Jayanto. You can call me `DP`, stands for Dedy Puji. I am software developer since late 2017. I am from Indonesia.
 
 ## Expertise 🔬
 My expertise primiraly lies in web backend development. I also did frontend development sometimes, and occasionally manage the infrastructure side related to the project I am currently working on. My field of expertise is payment gateway system, financial system, and i begin to learn blockchain system.
@@ -42,6 +42,7 @@ A boilerplate i made to speed up my golang backend server development. I am usin
 - [Twitter](https://x.com/pujidjayanto)
 - [LinkedIn](https://www.linkedin.com/in/dedy-puji-jayanto/)
 - [Stack Overflow](https://stackoverflow.com/users/9446028/dedy-puji)
+- [Codewars](https://www.codewars.com/users/pujidjayanto)
 - [Medium](https://medium.com/@pujidjayanto) (Building in Progress)
 
 ## My Biggest Motivation! 🔥
