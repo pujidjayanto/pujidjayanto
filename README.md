@@ -2,6 +2,12 @@
 
 My name is Dedy Puji Jayanto. You can call me `DP`, stands for Dedy Puji. I am software developer since late 2017. I am from Indonesia.
 
+## Current 🌊
+- I am working remotely (Already 4 years, wow i do not even realize that! time flies so fast)
+- My current position is actually Associate Senior Software Engineer. So it is a beginner of senior position hehehe.
+- I am reading `HTTP: The Definitive Guide` book by David Gourley, and Brian Totty.
+- I sometimes do [codewars](https://www.codewars.com/users/pujidjayanto) when there is no on going project
+
 ## Expertise 🔬
 My expertise primiraly lies in web backend development. I also did frontend development sometimes, and occasionally manage the infrastructure side related to the project I am currently working on. My field of expertise is payment gateway system, financial system, and i begin to learn blockchain system.
 
@@ -33,10 +39,6 @@ Technology Stack: HTML, CSS, VueJS, Bulma.
 
 A boilerplate i made to speed up my golang backend server development. I am using gin, and gorm as main library for the stack.
 
-## Current 🌊
-- I am working remotely (Already 4 years, wow i do not even realize that! time flies so fast)
-- My current position is actually Associate Senior Software Engineer. So it is a beginner of senior position hehehe.
-- I am reading `HTTP: The Definitive Guide` book by David Gourley, and Brian Totty.
 
 ## Find Me! 🕵🏻‍♂️
 - [Twitter](https://x.com/pujidjayanto)
