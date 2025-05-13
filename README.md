@@ -4,7 +4,6 @@ My name is Dedy Puji Jayanto. You can call me `DP`, stands for Dedy Puji. I am s
 
 ## Current 🌊
 - I am working remotely (Already 4 years, wow i do not even realize that! time flies so fast)
-- My current position is actually Associate Senior Software Engineer. So it is a beginner of senior position hehehe.
 - I am reading `HTTP: The Definitive Guide` book by David Gourley, and Brian Totty.
 - I sometimes do [codewars](https://www.codewars.com/users/pujidjayanto) when there is no on going project
 
