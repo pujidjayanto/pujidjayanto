@@ -24,8 +24,6 @@ My primary languages are:
 - Bahasa Indonesia
 - English with [C2 Proficiency](https://cert.efset.org/fm7xWX)
 
-And there is Deutsch lang in my to-do list.
-
 ## Side Projects 👷🏼‍♂️
 
 ### [Bagijuz](https://github.com/pujidjayanto/bagijuz)
