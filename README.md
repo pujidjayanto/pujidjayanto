@@ -5,7 +5,7 @@ My name is Dedy Puji Jayanto. You can call me `DP`, stands for Dedy Puji. I am s
 ## Current 🌊
 - I am working remotely (Already 4 years, wow i do not even realize that! time flies so fast)
 - I am reading Database Internals: A Deep Dive into How Distributed Data Systems Work by  Alex Petrov.
-- I sometimes do [codewars](https://www.codewars.com/users/pujidjayanto) when there is no on going project
+- I sometimes do [leetcode](https://leetcode.com/u/pujidjayanto/) when there is no on going project
 
 ## Expertise 🔬
 My expertise primiraly lies in web backend development. I also did frontend development sometimes, and occasionally manage the infrastructure side related to the project I am currently working on. My field of expertise is payment gateway system, financial system, and i begin to learn blockchain system.
