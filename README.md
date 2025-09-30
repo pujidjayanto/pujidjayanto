@@ -4,8 +4,8 @@ My name is Dedy Puji Jayanto. You can call me `DP`, stands for Dedy Puji. I am s
 
 ## Current 🌊
 - I am working remotely (Already 4 years, wow i do not even realize that! time flies so fast)
-- I am reading The Software Engineers Guide Book by Gergely Orosz.
-- I sometimes do [leetcode](https://leetcode.com/u/pujidjayanto/) when there is no on going project
+- I am reading The Psychology of Money by Morgan Housel.
+- I sometimes do [codewars](https://www.codewars.com/users/pujidjayanto) when there is no on going project
 
 ## Expertise 🔬
 My expertise primiraly lies in web backend development. I also did frontend development sometimes, and occasionally manage the infrastructure side related to the project I am currently working on. My field of expertise is payment gateway system, financial system, and i begin to learn blockchain system.
@@ -35,6 +35,16 @@ Technology Stack: HTML, CSS, VueJS, Bulma.
 ### [Golang Gin and GORM boilerplate](https://github.com/pujidjayanto/goginboilerplate)
 
 A boilerplate i made to speed up my golang backend server development. I am using gin, and gorm as main library for the stack.
+
+
+## My Open Source Contributions
+
+Here are some open source projects I've contributed to:
+
+| Project | Contribution Type | Status | Link |
+| :--- | :--- | :--- | :--- |
+| **[go-feature-flag](https://github.com/thomaspoignant/go-feature-flag)** | use pterm in cli output | Merged | [Commit](https://github.com/thomaspoignant/go-feature-flag/commit/7497875b404980626e5da28b3524929bc1fa3929) |
+| **[osv-mcp](https://github.com/StacklokLabs/osv-mcp)** | add lint configuration and fix lint issue | Merged | [Commit](https://github.com/StacklokLabs/osv-mcp/commit/8cf70e9be38c61980daf0dab11d9741c18771342) |
 
 
 ## Find Me! 🕵🏻‍♂️
